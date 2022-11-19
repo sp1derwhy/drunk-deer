@@ -1,2 +1,2 @@
 # drunk-deer
-solutions for algorithm questions
+solutions for leetcode algorithm questions
